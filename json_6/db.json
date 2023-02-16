@@ -23,6 +23,8 @@
   ],
   "users":[
     {
+      "id":1,
+      "username": "dhullsuman",
       "email" : "admin@stockbroker.com",
 "password" : "admin123"
     }
