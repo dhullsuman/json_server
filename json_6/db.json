@@ -28,5 +28,6 @@
       "email" : "admin@stockbroker.com",
 "password" : "admin123"
     }
-  ]
+  ],
+  "buy":[]
 }
